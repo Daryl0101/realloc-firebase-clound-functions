@@ -83,3 +83,7 @@ View logs and metrics in Firebase Console:
 - Logs Explorer for detailed function logs
 
 Built for the ReAlloc food allocation system to keep users informed of important updates.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
